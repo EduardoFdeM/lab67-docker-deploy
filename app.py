@@ -21,7 +21,7 @@ def home():
         </style>
     </head>
     <body>
-        <h1>Hello World!</h1>
+        <h1>Hello World atualizado!</h1>
         <p>Engenharia de Software - Mackenzie</p>
         <p>Aplicação Flask executada com Docker.</p>
     </body>
